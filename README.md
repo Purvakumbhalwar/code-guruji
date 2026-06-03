@@ -133,11 +133,7 @@ Builds the app for production to the `build` folder
 - **Local Storage Only**: Your code and analysis history are stored locally in your browser
 - **No Server**: This is a client-side application - your code never leaves your device except for API calls to Google's Gemini
 
-### Important Notes
-- Never commit your `.env` file to version control
-- Keep your API key secure and don't share it publicly
-- The free tier of Gemini API has usage limits
-- Your code snippets are sent to Google's API for analysis
+
 
 ## Key Features in Detail
 
